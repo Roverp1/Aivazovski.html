@@ -1,0 +1,32 @@
+.about {
+    padding: 100px 0;
+    background-color: #f6f6f6;
+    margin-bottom: 75px;
+}
+
+.about__title {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 45px;
+}
+
+.about__inner {
+    max-width: 784px;
+    margin: 0 auto;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.about__paragraph-one {
+    text-align: center;
+    line-height: 21.09px;
+    margin-bottom: 22px;
+}
+
+.about__line {
+    max-width: 420px;
+    height: 1px;
+    background-color: #000;
+    margin:15px auto;
+}
